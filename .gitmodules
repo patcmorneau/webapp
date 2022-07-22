@@ -1,0 +1,3 @@
+[submodule "thirdParty/AisAnomalyDetection"]
+	path = thirdParty/AisAnomalyDetection
+	url = https://github.com/patcmorneau/AISAnomalyDetection.git
